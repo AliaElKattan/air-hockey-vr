@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: ca3d177cedf57934080ea24b01bf4350
+timeCreated: 1500979699
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: airhockey1:group1
+    100002: airhockey1:pasted__pCube1
+    100004: airhockey:group
+    100006: airhockey:group1
+    100008: airhockey:pasted__group
+    100010: airhockey:pasted__pCube1
+    100012: airhockey:pasted__pCube1 1
+    100014: airhockey:pCube1
+    100016: airhockey:pCube2
+    100018: airhockey:pCube3
+    100020: //RootNode
+    100022: group
+    100024: group1
+    100026: pasted__group
+    100028: pasted__pCube1
+    100030: group2
+    100032: pasted__group1
+    100034: pasted__pasted__pCube1
+    400000: airhockey1:group1
+    400002: airhockey1:pasted__pCube1
+    400004: airhockey:group
+    400006: airhockey:group1
+    400008: airhockey:pasted__group
+    400010: airhockey:pasted__pCube1
+    400012: airhockey:pasted__pCube1 1
+    400014: airhockey:pCube1
+    400016: airhockey:pCube2
+    400018: airhockey:pCube3
+    400020: //RootNode
+    400022: group
+    400024: group1
+    400026: pasted__group
+    400028: pasted__pCube1
+    400030: group2
+    400032: pasted__group1
+    400034: pasted__pasted__pCube1
+    2300000: airhockey1:pasted__pCube1
+    2300002: airhockey:pasted__pCube1
+    2300004: airhockey:pasted__pCube1 1
+    2300006: airhockey:pCube1
+    2300008: airhockey:pCube2
+    2300010: airhockey:pCube3
+    2300012: pasted__pCube1
+    2300014: pasted__pasted__pCube1
+    3300000: airhockey1:pasted__pCube1
+    3300002: airhockey:pasted__pCube1
+    3300004: airhockey:pasted__pCube1 1
+    3300006: airhockey:pCube1
+    3300008: airhockey:pCube2
+    3300010: airhockey:pCube3
+    3300012: pasted__pCube1
+    3300014: pasted__pasted__pCube1
+    4300000: airhockey:pCube1
+    4300002: airhockey:pasted__pCube1
+    4300004: airhockey:pasted__pCube1
+    4300006: airhockey:pCube2
+    4300008: airhockey:pCube3
+    4300010: pasted__pCube1
+    4300012: airhockey1:pasted__pCube1
+    4300014: pasted__pasted__pCube1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
